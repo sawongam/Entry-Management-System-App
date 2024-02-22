@@ -1,5 +1,5 @@
 # Entry Management System - Flutter App
-![Kotlin](https://img.shields.io/badge/Language-Dart-red.svg) 
+![Flutter](https://img.shields.io/badge/Language-Dart-red.svg) 
 ![Status](https://img.shields.io/badge/Status-Complete-orange.svg)
 
 This is a simple Entry Management System app built using Flutter. The app allows users to create, view, update, and delete entries using shared preferences for local data storage.
